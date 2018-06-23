@@ -1,0 +1,21 @@
+{
+    "offices": [
+        { 
+            "_id": "TOR",
+            "name": "Torun",
+            "employees": [
+                { "_id": 1, "name": "Leah", "salary": 3000 },
+                { "_id": 2, "name": "Miles", "salary": 2010 }
+
+            ]
+        },
+        { 
+            "_id": "WAR",
+            "name": "Warszawa",
+            "employees": [
+                { "_id": 3, "name": "Serena", "salary": 5290 },
+                { "_id": 4, "name": "Hunter", "salary": 4260 }
+            ]
+        }
+    ]
+}
