@@ -15,6 +15,10 @@ Run tests:
 
 `npm test`
 
+Build:
+
+`npm run build`
+
 Run app:
 
 `npm start`
